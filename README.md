@@ -8,7 +8,7 @@
 
 - 🎓 **Computer Scientist,** graduated from [CESAR School](https://www.cesar.school) — my TCC explored game‑based learning for quantum computing
 - 🧑‍🔬 **Researcher** at **|QATS> Quantum Applications in Technology & Software**
-- 👷 **Junior Quality Assurance Engineer** at [C.E.S.A.R](https://github.com/CESARBR](https://www.cesar.org.br/))
+- 👷 **Junior Quality Assurance Engineer** at [C.E.S.A.R](https://www.cesar.org.br/)
 - 🌱 Currently diving into **C#**, **Selenium**, and advanced test‑automation practices
 - 🌍 Based in Recife, Brazil — always eager to collaborate with devs worldwide
 - 🗣️ Languages: Portuguese (native) & English (learning)
